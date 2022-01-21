@@ -10,7 +10,7 @@
 //   console.log('It worked! Returned IP:' , ip);
 // });
 
-// fetchCoordsByIP ( ip ,(error, data) => {
+// fetchCoordsByIP ( 173.59.39.12 ,(error, data) => {
 //   if (error) {
 //     console.log(err)
 //     return
